@@ -1,9 +1,10 @@
-The Elemental Brawl🔥
+# The Elemental Brawl🔥
 
 This repository contains the source code and assets for "The Elemental Brawl," a limited-edition collection of 10 unique dragon NFTs on the Solana devnet.
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0e987c94-ed65-4d9c-b1a4-a51f2b064bd2" />
 
 This project is built entirely on the new **Metaplex Core** protocol, leveraging its modern `collection` and `asset` standards for a more efficient and flexible on-chain structure.
-
+visit https://core.metaplex.com/explorer/collection/GzRh7U2B5Cq48G4SNNvcXde1e2FZVBbYgNBCVWmbQphw?env=devnet
 ---
 
 ## The Collection: The 10 Brawlers
